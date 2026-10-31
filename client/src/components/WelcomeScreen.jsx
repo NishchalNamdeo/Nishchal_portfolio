@@ -28,7 +28,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   };
 
   const currentColors = colors[theme] || colors.dark;
-  const portfolioUrl = "https://nishchal-portfolio-jet.vercel.app/";
+  const portfolioUrl = "https://nishchal-profolio.vercel.app/";
   const welcomeMessages = [
     "Crafting digital experiences",
     "Software Engineer",
