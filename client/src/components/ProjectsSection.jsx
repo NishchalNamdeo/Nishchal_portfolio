@@ -41,7 +41,7 @@ const projects = [
       "career guidance",
       "OPEN SOURCE",
     ],
-    demoUrl: "https://www.useaxonic.com/~",
+    demoUrl: "https://www.useaxonic.com/",
     featured: true,
     accentColor: "from-emerald-500 to-teal-600",
     status: "Live",
